@@ -1,7 +1,8 @@
 {
   plugins = {
-    indent-blankline = {
+    noice = {
       enable = true;
+      autoLoad = true;
     };
   };
 }
